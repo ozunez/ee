@@ -9,7 +9,7 @@ local plrs = game:GetService("Players")
 local lplr = plrs.LocalPlayer
 local placeID = game.PlaceId
 
-local github = "https://raw.githubusercontent.com/ozunez/ee/refs/heads/main/loader.lua"
+local github = "https://raw.githubusercontent.com/ozunez/ee/main/"
 local places = loadstring(game:HttpGet(github.."supported.lua"))()
 
 --<< Script >>--
