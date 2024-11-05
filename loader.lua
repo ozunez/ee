@@ -9,7 +9,7 @@ local plrs = game:GetService("Players")
 local lplr = plrs.LocalPlayer
 local placeID = game.PlaceId
 
-local github = "https://raw.githubusercontent.com/SeasonalKirito/Andromeda/main/"
+local github = "https://github.com/ozunez/ee/blob/main/supported.lua"
 local places = loadstring(game:HttpGet(github.."supported.lua"))()
 
 --<< Script >>--
