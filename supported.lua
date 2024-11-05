@@ -1,5 +1,5 @@
 return {
-    6839171747, -- Doors: Floor 1 (Maybe floor 2)
+    14166359727, -- Doors: Floor 1 (Maybe floor 2)
     12552538292, -- Pressure
     606849621, -- Jailbreak
     13772394625, -- Blade Ball
